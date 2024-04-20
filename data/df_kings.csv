@@ -1,0 +1,59 @@
+accom name,Student Level (UG/PG/mixed),Bed Size(D/S),Bathroom Type(S/P),price
+Angel Lane,mixed,D,P,163.00
+Angel Lane,mixed,D,P,268.00
+Angel Lane,mixed,D,P,268.00
+Angel Lane,mixed,D,P,268.00
+Angel Lane,mixed,D,P,394.00
+Atlas,mixed,D,P,347.00
+Atlas,mixed,D,P,347.00
+Atlas,mixed,S,S,304.00
+Atlas,mixed,S,S,309.00
+Atlas,mixed,D,P,347.00
+Atlas,mixed,D,P,357.00
+Atlas,mixed,D,P,430.00
+Atlas,mixed,D,P,447.00
+Atlas,mixed,D,P,467.00
+Battersea,mixed,D,S,169.00
+Battersea,mixed,S,P,169.00
+Battersea,mixed,D,S,169.00
+Battersea,mixed,D,P,169.00
+Battersea,mixed,D,P,370.00
+Canada Water,UG,D,P,304.00
+Canada Water,UG,D,P,314.00
+Great Dover Street,UG,S,P,169.00
+Great Dover Street,UG,S,P,226.00
+Great Dover Street,UG,S,P,226.00
+Great Dover Street,UG,D,P,244.00
+Hayloft Point,mixed,D,P,169.00
+Hayloft Point,mixed,D,P,331.00
+Hayloft Point,mixed,D,P,331.00
+Hayloft Point,mixed,D,P,331.00
+Julian Markham,UG,D,P,325.00
+Julian Markham,UG,D,P,419.00
+Moonraker Point,UG,D,P,365.00
+Moonraker Point,UG,D,P,375.00
+Orchard Lisle and Iris Brook,UG,D,S,243.00
+Orchard Lisle and Iris Brook,UG,D,S,243.00
+Orchard Lisle and Iris Brook,UG,D,P,318.00
+Stamford Street Apartments,UG,S,P,169.00
+Stamford Street Apartments,UG,S,P,226.00
+Stamford Street Apartments,UG,D,P,263.00
+Stamford Street Apartments,UG,S,P,252.00
+Stamford Street Apartments,UG,S,S,252.00
+Stamford Street Apartments,UG,D,P,368.00
+Wolfson House,mixed,D,S,155.00
+Wolfson House,mixed,D,S,178.00
+Wolfson House,mixed,D,S,199.00
+Wolfson House,mixed,D,S,199.00
+Wolfson House,mixed,D,S,395.00
+"City, Vine Street (Postgraduate Only)",PG,D,S,275.00
+"City, Vine Street (Postgraduate Only)",PG,D,S,315.00
+"City, Vine Street (Postgraduate Only)",PG,D,S,320.00
+"City, Vine Street (Postgraduate Only)",PG,D,S,325.00
+"City, Vine Street (Postgraduate Only)",PG,D,P,383.00
+"City, Vine Street (Postgraduate Only)",PG,D,P,499.00
+"City, Vine Street (Postgraduate Only)",PG,D,P,509.00
+"City, Vine Street (Postgraduate Only)",PG,D,P,519.00
+Vauxhall (Postgraduate Only),PG,S,S,303.00
+Vauxhall (Postgraduate Only),PG,D,P,341.00
+Vauxhall (Postgraduate Only),PG,D,P,446.00

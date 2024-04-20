@@ -1,0 +1,48 @@
+accom name,Student Level (UG/PG/mixed),distance by foot,distance by bike,distance by public transport,Bed Size(D/S),Bathroom Type(S/P),Distance (km),price
+Bankside House,UG,27,13,24,S,S,1.5,259.70
+Bankside House,UG,27,13,24,S,P,1.5,287.17
+Bankside House,UG,27,13,24,S,P,1.5,176.93
+Butler's Wharf Residence,PG,51,22,34,S,S,3.2,231.0
+Butler's Wharf Residence,PG,51,22,34,S,S,3.2,140.53
+Butler's Wharf Residence,PG,51,22,34,D,S,3.2,278.95
+College Hall,mixed,22,8,16,S,S,1.2,289.73
+College Hall,mixed,22,8,16,S,P,1.2,332.43
+College Hall,mixed,22,8,16,D,P,1.2,392.63
+Carr-Saunders Hall,UG,28,11,23,S,S,1.6,257.25
+Carr-Saunders Hall,UG,28,11,23,D,S,1.6,259.35
+Carr-Saunders Hall,UG,28,11,23,S,S,1.6,173.25
+Carr-Saunders Hall,UG,28,11,23,S,P,1.6,185.50
+Lilian Knowles House,PG,45,19,25,S,P,2.9,220.61
+Lilian Knowles House,PG,45,19,25,S,P,2.9,283.37
+Lilian Knowles House,PG,45,19,25,S,P,2.9,319.79
+Connaught Hall,mixed,21,8,14,S,S,1.3,273.63
+Passfield Hall,UG,23,10,15,S,S,1.5,252.88
+Passfield Hall,UG,23,10,15,S,P,1.5,287.35
+Passfield Hall,UG,23,10,15,S,S,1.5,162.75
+Passfield Hall,UG,23,10,15,S,P,1.5,182.70
+Passfield Hall,UG,23,10,15,S,S,1.5,135.27
+High Holborn Residence,mixed,11,4,10,S,S,0.5,317.80
+High Holborn Residence,mixed,11,4,10,D,S,0.5,333.90
+High Holborn Residence,mixed,11,4,10,S,P,0.5,333.20
+High Holborn Residence,mixed,11,4,10,S,P,0.5,184.45
+Rosebery Hall,UG,27,12,19,S,S,1.6,255.85
+Rosebery Hall,UG,27,12,19,S,S,1.6,168.70
+Rosebery Hall,UG,27,12,19,S,P,1.6,185.50
+International Hall,mixed,19,8,13,S,S,1,266.28
+International Hall,mixed,19,8,13,S,P,1,298.13
+International Hall,mixed,19,8,13,D,P,1,321.93
+Nutford House,mixed,50,21,27,S,S,3.1,250.18
+Nutford House,mixed,50,21,27,S,S,3.1,183.40
+Sidney Webb House,mixed,45,19,24,D,P,2.8,233.28
+Sidney Webb House,mixed,45,19,24,D,S,2.8,277.90
+Sidney Webb House,mixed,45,19,24,D,P,2.8,290.85
+Sidney Webb House,mixed,45,19,24,D,P,2.8,336.70
+Sidney Webb House,mixed,45,19,24,D,P,2.8,331.45
+The Garden Halls,mixed,25,9,16,S,S,1.6,279.19
+The Garden Halls,mixed,25,9,16,S,P,1.6,358.61
+The Garden Halls,mixed,25,9,16,S,P,1.6,372.89
+The Garden Halls,mixed,25,9,16,S,P,1.6,314.16
+urbanest Westminster Bridge,mixed,25,9,11,S,S,1.5,298.0
+urbanest Westminster Bridge,mixed,25,9,11,S,P,1.5,316.9
+urbanest Westminster Bridge,mixed,25,9,11,S,P,1.5,233.66
+urbanest Westminster Bridge,mixed,25,9,11,S,P,1.5,439.17
